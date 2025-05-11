@@ -75,13 +75,22 @@ Content:{text}
 
 ## 📚 Dependencies
 
-- `streamlit`
-- `langchain`
-- `langchain_groq`
-- `langchain_community`
-- `python-dotenv`
-- `validators`
-- `os`
+langchain
+python-dotenv
+ipykernel
+langchain-community
+pypdf
+pymupdf
+langchain-text-splitters
+langchain-openai
+pandas
+openai
+langchain-groq
+youtube_transcript_api
+unstructured
+pytube
+
+
 
 Ensure all dependencies are installed as per the `requirements.txt` file.
 
