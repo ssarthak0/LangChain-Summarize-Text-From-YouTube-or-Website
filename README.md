@@ -89,6 +89,7 @@ langchain-groq
 youtube_transcript_api
 unstructured
 pytube
+validators==0.28.1
 
 
 
